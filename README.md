@@ -1,3 +1,7 @@
+## [Live Link](https://financier-customer.netlify.app/)
+
+### Used ReactJS and Material UI for the design
+
 ### Steps I have taken to solve the given problem.
 
 -   Made a class named Financier
